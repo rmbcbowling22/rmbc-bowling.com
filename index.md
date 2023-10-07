@@ -9,3 +9,12 @@ header:
 exerpt: > 
   Welcome to Marks21.com. This is the home of Marks21 
 ---
+
+
+Welcome to Marks21.com. this is the home of Marks21
+
+# Blog #
+
+# About #
+
+# Services #
