@@ -2,6 +2,12 @@
 main:
   - title: "Home"
     url: https://www.marks21.com
+  - title: "Blog"
+    url: https://www.marks21.com/blog/
+  - title: "Services"
+    url: https://www.marks21.com/services/
+  - title: "About",
+    url: https://www.marks21.com/about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
