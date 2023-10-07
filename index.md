@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+
   overlay_image: /assets/images/assets/images/marks21-Header.png
   title: "Marks21.com"
 exerpt: > 
