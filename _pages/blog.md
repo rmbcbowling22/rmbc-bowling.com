@@ -1,0 +1,4 @@
+---
+layout:oldhome
+permalink: /blog/
+---
