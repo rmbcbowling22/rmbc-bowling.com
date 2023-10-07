@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 header:
   title: "Welcome to Marks21's Website"
   overlay_color: "#5e616c"
