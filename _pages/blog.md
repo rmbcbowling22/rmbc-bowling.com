@@ -1,4 +1,4 @@
 ---
-layout:oldhome
+layout: oldhome
 permalink: /blog/
 ---
