@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanner Marks"
+title                    : "Marks21"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tanner Marks"
+name                     : "Marks 21"
 description              : ""
 url                      : "https://tanner.marks21.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "tmarks21/tanner" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "wwwmarks21/www" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/M-Horiz-Blue.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo-blue.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanner Marks"
-  avatar           : "/assets/images/Tanner-Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Power Platform Developer for CSAA IG. "
-  location         : "Central Valley CA."
+  name             : "Marks21"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
+  location         : ""
   email            : #"tanner@marks21.com"
   links:
     - label: "Email"
