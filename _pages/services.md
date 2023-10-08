@@ -3,4 +3,4 @@ permalink: /services/
 toc: true
 ---
 
-# Services #
+![Services]({{ site.url }}{{ site.baseurl }}/assets/images/services.jpg){: .align-center}
