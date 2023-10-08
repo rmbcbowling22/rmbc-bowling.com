@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: #003B73
+  overlay_color: "#5e616c"
   overlay_image: /assets/images/assets/images/marks21-Header.png
 exerpt: > 
   Welcome to Marks21.com. This is the home of Marks21 
