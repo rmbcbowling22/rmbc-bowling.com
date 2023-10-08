@@ -3,4 +3,4 @@ permalink: /about/
 toc: true
 ---
 
-# About Marks21 #
+![Services]({{ site.url }}{{ site.baseurl }}/assets/images/About-Header.png){: .align-center}
