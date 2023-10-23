@@ -10,19 +10,19 @@ exerpt: >
 ---
 
 
-Welcome to Marks21.com. this is the home of Marks21
+Welcome to the Reedley MB Church's Bowling League Website. 
 
-# Blog #
-View our Blog Posts and see what is new with Marks21 
+# The 2023 Season is Here! 
+View the who is currently on top and the rest of the leaderboard. 
+[View Scoreboard](https://www.rmbc-bowling.com/scoreboard/){: .btn .btn--info}
 
-[View Recent Blog Posts](https://www.marks21.com/blog/){: .btn .btn--info}
 
-# About #
-View our story and what Marks21 is.
+## Where do we meet? 
+We meet at Orbit Lanes Dinuba - 250 S L St, Dinuba, CA 93618
 
-[About Marks21](https://www.marks21.com/about){: .btn .btn--info}
+## When do we meet?
 
-# Services #
-View our Services that we provide.
-
-[View Our Services](https://www.marks21.com/services){: .btn .btn--info}
+- Thursday October 19th - 6:00pm
+- Thursday November 2nd - 6:00pm
+- Thursday November 16th - 6:00pm
+- Thursday November 30th - 6:00pm
